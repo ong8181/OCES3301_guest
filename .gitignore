@@ -130,4 +130,4 @@ dmypy.json
 .Rproj.user
 
 .DS_Store
-lecture_slides/*
+#lecture_slides/*
