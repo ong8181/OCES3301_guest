@@ -12,8 +12,8 @@ See LICENSE.
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/OCES3301_guest/blob/main/04_xor_gate.ipynb) 04_xor_gate.ipynb
 
 ### Echo State Network
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/OCES3301_guest/blob/main/05_minimalESN_lorenz.ipynb) 05_minimalESN_lorenz.ipynb
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/OCES3301_guest/blob/main/06_minimalESN_mackey.ipynb) 06_minimalESN_mackey.ipynb
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/OCES3301_guest/blob/main/05_minimal_esn_lorenz.ipynb) 05_minimal_esn_lorenz.ipynb
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/OCES3301_guest/blob/main/06_minimal_esn_mackey.ipynb) 06_minimal_esn_mackey.ipynb
 
 
 # References
